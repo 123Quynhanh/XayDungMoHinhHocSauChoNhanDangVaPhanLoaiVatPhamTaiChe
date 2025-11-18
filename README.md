@@ -1,6 +1,6 @@
 # ♻️ Xây dựng Mô hình Học sâu để Nhận diện và Phân loại Vật phẩm Tái chế
 
-**Thời gian:** 17/04/2025 – 08/05/2025
+**Thời gian:** 17/04/2025 – 08/05/2025 <br>
 **Số lượng thành viên:** 2
 
 ---
